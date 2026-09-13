@@ -1,0 +1,30 @@
+# Environment / secrets
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+*.egg
+
+# Runtime data (contains uploaded PDFs / grading results — not source)
+uploads/
+outputs/
+
+# ML datasets (large, versioned separately if needed)
+# datasets/  # uncomment if datasets grow too large for the repo
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.log

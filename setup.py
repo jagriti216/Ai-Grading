@@ -1,0 +1,32 @@
+from setuptools import setup, find_namespace_packages
+
+setup(
+    name="stage5_api",
+    version="1.0.0",
+    package_dir={"stage5_api": "stage5_fastapi"},
+    packages=["stage5_api"] + [f"stage5_api.{pkg}" for pkg in find_namespace_packages(where="stage5_fastapi")],
+    install_requires=[
+        "fastapi>=0.137.1",
+        "uvicorn>=0.49.0",
+        "python-multipart>=0.0.32",
+        "pydantic>=2.13.4",
+        "pymongo>=4.17.0",
+        "python-dotenv>=1.2.2",
+        "requests>=2.34.2",
+        "pdfplumber>=0.11.9",
+        "PyMuPDF>=1.27.2",
+        "pillow>=12.2.0",
+        "sympy>=1.14.0",
+        "sentence-transformers>=5.6.0",
+        "transformers>=5.12.1",
+        "torch>=2.12.0",
+        "huggingface_hub>=1.19.0",
+        "pandas>=3.0.3",
+        "numpy>=2.4.6",
+        "scikit-learn>=1.9.0",
+        "scipy>=1.17.1",
+        "PyJWT>=2.13.0",
+        "bcrypt>=4.0.0",
+        "keybert>=0.9.0",
+    ],
+)

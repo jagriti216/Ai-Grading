@@ -1,0 +1,243 @@
+id,question,reference_answer,standard
+FF.Q1.RA1,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,Terminal 1 and the positive terminal are separated by the gap,2
+FF.Q1.RA2,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,Terminal 1 and the positive terminal are not connected,2
+FF.Q1.RA3,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,terminal 1 is connected to the negative battery terminal,0
+FF.Q1.RA4,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,terminal 1 is not separated from the negative battery terminal,0
+FF.Q1.RA5,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,Terminal 1 and the positive battery terminal are in different electrical states,0
+FF.Q2.RA1,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,Terminal 2 and the positive terminal are separated by the gap,2
+FF.Q2.RA2,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,Terminal 2 and the positive terminal are not connected,2
+FF.Q2.RA3,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,terminal 2 is connected to the negative battery terminal,0
+FF.Q2.RA4,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,terminal 2 is not separated from the negative battery terminal,0
+FF.Q2.RA5,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,Terminal 2 and the positive battery terminal are in different electrical states,0
+FF.Q4.RA1,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive terminal are connected,2
+FF.Q4.RA2,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive terminal are not separated by the gap,1
+FF.Q4.RA3,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive terminal are not separated by the gap,1
+FF.Q4.RA4,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,terminal 6 is not connected to the negative battery terminal,0
+FF.Q4.RA5,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,There is no gap between terminal 6 and the positive terminal,1
+FF.Q4.RA6,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,terminal 6 is separated by a gap from the negative battery terminal,0
+FF.Q4.RA7,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive battery terminal are in the same electrical state,0
+FF.Q5.RA1,Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.,Terminals 1 and 2 are connected,2
+FF.Q5.RA2,Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.,Terminals 1 and 2 are not separated by the gap,1
+FF.Q5.RA3,Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.,There is no gap between them,1
+FF.Q5.RA4,Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.,Terminals 1 and 2 are connected and in the same electrical state,1
+FF.Q5.RA5,Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.,There is no gap between terminals 1 and 2,1
+FF.Q5.RA6,Explain why you got a voltage reading of 0 for terminal 1 and terminal 2.,Terminals 1 and 2 are in the same electrical state,0
+FF.Q6.RA1,Explain why you got a voltage reading of 0 for terminal 1 and terminal 4.,Terminals 1 and 4 are connected,2
+FF.Q6.RA2,Explain why you got a voltage reading of 0 for terminal 1 and terminal 4.,Terminals 1 and 4 are not separated by the gap,1
+FF.Q6.RA3,Explain why you got a voltage reading of 0 for terminal 1 and terminal 4.,There is no gap between terminals 1 and 4,1
+FF.Q6.RA4,Explain why you got a voltage reading of 0 for terminal 1 and terminal 4.,Terminals 1 and 4 are connected and in the same electrical state,1
+FF.Q6.RA5,Explain why you got a voltage reading of 0 for terminal 1 and terminal 4.,Terminals 1 and 4 are in the same electrical state,0
+FF.Q7.RA1,Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.,Terminals 1 and 6 are separated by the gap,2
+FF.Q7.RA2,Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.,Terminals 1 and 6 are not connected,1
+FF.Q7.RA3,Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.,Terminals 1 and 6 are not connected and so in different electrical states,1
+FF.Q7.RA4,Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.,There is a gap between terminals 1 and 6,2
+FF.Q7.RA5,Explain why you got a voltage reading of 1.5 for terminal 1 and terminal 6.,Terminals 1 and 6 are in different electrical states,0
+FF.Q8.RA1,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",Measuring voltage indicates the place where the electrical state changes due to a damaged bulb.,2
+FF.Q8.RA2,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",Measuring voltage indicates the place where the electrical state changes due to a gap.,2
+FF.Q8.RA3,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",Measuring voltage indicates whether two terminals are connected to each other.,1
+FF.Q8.RA4,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",Measuring voltage indicates whether two terminals are separated by a gap.,1
+FF.Q8.RA5,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A zero voltage means that the terminals are connected.,1
+FF.Q8.RA6,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A non-zero voltage means that the terminals are not connected.,1
+FF.Q8.RA7,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A zero voltage means that the terminals are not separated by a gap.,1
+FF.Q8.RA8,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A non-zero voltage means that the terminals are separated by a gap.,1
+FF.Q8.RA9,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A non-zero voltage means that there is a damaged bulb.,0
+FF.Q8.RA10,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A non-zero voltage means that there is a gap,0
+FF.Q8.RA11,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A zero voltage means that there is no damaged bulb.,0
+FF.Q8.RA12,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A zero voltage means that there is no gap,0
+FF.Q8.RA13,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A non-zero voltage means that the terminals have different electrical states.,0
+FF.Q8.RA14,"Why does measuring voltage help you locate a burned out bulb? Try to answer in terms of electrical states, connections and/ or a gap.",A zero voltage means that the terminals have the same electrical state.,0
+FF.Q10.RA1,Why do you think the other terminals are being held in a different electrical state than that of the negative terminal?,"Terminals 4, 5 and 6 are not connected to the negative battery terminal",2
+FF.Q10.RA2,Why do you think the other terminals are being held in a different electrical state than that of the negative terminal?,"Terminals 4, 5 and 6 are separated from the negative battery terminal by a gap",1
+FF.Q10.RA3,Why do you think the other terminals are being held in a different electrical state than that of the negative terminal?,"Terminals 4, 5 and 6 are connected to the positive battery terminal",0
+FF.Q10.RA4,Why do you think the other terminals are being held in a different electrical state than that of the negative terminal?,"Terminals 4, 5 and 6 are not separated from the positive battery terminal by a gap",0
+FF.Q11.RA1,Why do you think those terminals and the negative battery terminal are in the same state?,"Terminals 1, 2 and 3 are connected to the negative battery terminal",2
+FF.Q11.RA2,Why do you think those terminals and the negative battery terminal are in the same state?,"Terminals 1, 2 and 3 are not separated from the negative battery terminal by a gap",1
+FF.Q11.RA3,Why do you think those terminals and the negative battery terminal are in the same state?,"Terminals 1, 2 and 3 are not connected to the positive battery terminal",0
+FF.Q11.RA4,Why do you think those terminals and the negative battery terminal are in the same state?,"Terminals 1, 2 and 3 are separated from the positive battery terminal by a gap",0
+FF.Q12.RA1,"As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?",the bulb is damaged,2
+FF.Q12.RA2,"As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?",the terminals are not connected,2
+FF.Q12.RA3,"As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?",there is a gap,0
+FF.Q12.RA4,"As you move the multimeter leads from one bulb terminal to the next, what does it mean when the voltage reading jumps from 0 to 1.5?",the terminals are separated by a gap,0
+FF.Q13.RA1,What is voltage?,Voltage is the difference in electrical states between two terminals,2
+FF.Q14.RA1,What does a voltage reading of 0 tell you about the connection between a bulb terminal and a battery terminal?,the terminals are connected,2
+FF.Q14.RA2,What does a voltage reading of 0 tell you about the connection between a bulb terminal and a battery terminal?,the terminals are not separated by a gap,0
+FF.Q14.RA3,What does a voltage reading of 0 tell you about the connection between a bulb terminal and a battery terminal?,there is no gap between the terminals,0
+FF.Q14.RA4,What does a voltage reading of 0 tell you about the connection between a bulb terminal and a battery terminal?,The terminals are in the same state.,0
+FF.Q15.RA1,What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?,the terminals are not connected,2
+FF.Q15.RA2,What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?,the terminals are separated by a gap,1
+FF.Q15.RA3,What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?,The terminals are separated.,0
+FF.Q15.RA4,What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?,There is a gap.,0
+FF.Q15.RA5,What does a voltage reading of 1.5 tell you about the connection between a bulb terminal and a battery terminal?,The terminals are in different electrical states.,0
+FF.Q17.RA1,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,Terminal 1 and the positive terminal are separated by the gap,2
+FF.Q17.RA2,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,Terminal 1 and the positive terminal are not connected,2
+FF.Q17.RA3,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,terminal 1 is connected to the negative battery terminal,0
+FF.Q17.RA4,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,terminal 1 is not separated from the negative battery terminal,0
+FF.Q17.RA5,Explain why you got a voltage reading of 1.5 for terminal 1 and the positive terminal.,terminal 1 and the positive battery terminal are in different electrical states,0
+FF.Q19.RA1,Explain why you got a voltage reading of 1.5 for terminal 3 and the positive terminal.,Terminal 3 and the positive terminal are separated by the gap,2
+FF.Q19.RA2,Explain why you got a voltage reading of 1.5 for terminal 3 and the positive terminal.,Terminal 3 and the positive terminal are not connected,2
+FF.Q19.RA3,Explain why you got a voltage reading of 1.5 for terminal 3 and the positive terminal.,terminal 3 is connected to the negative battery terminal,0
+FF.Q19.RA4,Explain why you got a voltage reading of 1.5 for terminal 3 and the positive terminal.,terminal 3 is not separated from the negative battery terminal,0
+FF.Q19.RA5,Explain why you got a voltage reading of 1.5 for terminal 3 and the positive terminal.,Terminal 3 and the positive battery terminal are in different electrical states,0
+FF.Q20.RA1,Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.,Terminal 4 and the positive terminal are connected,2
+FF.Q20.RA2,Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.,Terminal 4 and the positive terminal are not separated by the gap,1
+FF.Q20.RA3,Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.,There is no gap between terminal 4 and the positive terminal,1
+FF.Q20.RA4,Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.,terminal 4 is not connected to the negative battery terminal,0
+FF.Q20.RA5,Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.,terminal 4 is separated by a gap from the negative battery terminal,0
+FF.Q20.RA6,Explain why you got a voltage reading of 0 for terminal 4 and the positive terminal.,Terminal 4 and the positive battery terminal are in the same electrical state,0
+FF.Q21.RA1,Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.,Terminal 5 and the positive terminal are connected,2
+FF.Q21.RA2,Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.,Terminal 5 and the positive terminal are not separated by the gap,1
+FF.Q21.RA3,Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.,There is no gap between terminal 5 and the positive terminal,1
+FF.Q21.RA4,Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.,terminal 5 is not connected to the negative battery terminal,0
+FF.Q21.RA5,Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.,terminal 5 is separated by a gap from the negative battery terminal,0
+FF.Q21.RA6,Explain why you got a voltage reading of 0 for terminal 5 and the positive terminal.,Terminal 5 and the positive battery terminal are in the same electrical state,0
+FF.Q22.RA1,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive terminal are connected,2
+FF.Q22.RA2,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive terminal are not separated by the gap,1
+FF.Q22.RA3,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,There is no gap between terminal 6 and the positive terminal,1
+FF.Q22.RA4,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,terminal 6 is not connected to the negative battery terminal,0
+FF.Q22.RA5,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,terminal 6 is separated by a gap from the negative battery terminal,0
+FF.Q22.RA6,Explain why you got a voltage reading of 0 for terminal 6 and the positive terminal.,Terminal 6 and the positive battery terminal are in the same electrical state,0
+FF.Q23.RA1,Why?,A battery uses a chemical reaction to maintain different electrical states at the terminals,2
+PC.Q1.RA1,Explain your reasoning.,bulbs B and C are still in closed paths with the battery,2
+PC.Q1.RA2,Explain your reasoning.,"If bulb A burns out, bulbs B and C are still in a closed path",1
+PC.Q1.RA3,Explain your reasoning.,each bulb is in its own path,1
+PC.Q2.RA1,Explain your reasoning.,Bulbs A and C are still in closed paths with the battery,2
+PC.Q2.RA2,Explain your reasoning.,Bulbs A and C are in a closed path,1
+PC.Q2.RA3,Explain your reasoning.,each bulb is in its own path,1
+PC.Q2.RA4,Explain your reasoning.,Bulb B is in a separate path,1
+PC.Q3.RA1,Explain your reasoning.,bulbs A and B are still in closed paths with the battery,2
+PC.Q3.RA2,Explain your reasoning.,bulbs A and B are in a closed path,1
+PC.Q3.RA3,Explain your reasoning.,each bulb is in its own path,1
+PC.Q3.RA4,Explain your reasoning.,Bulb C is in a separate path,1
+PC.Q4.RA1,Why didn^t bulbs A and C go out after bulb B burned out?,Bulbs A and C are still contained in closed paths with the battery,2
+PC.Q4.RA2,Why didn^t bulbs A and C go out after bulb B burned out?,Bulbs A and C are still in closed paths,1
+PC.Q4.RA3,Why didn^t bulbs A and C go out after bulb B burned out?,B is not in their paths,1
+PC.Q4.RA4,Why didn^t bulbs A and C go out after bulb B burned out?,"A, B and C are in different paths",0
+PC.Q5.RA1,Explain your reasoning.,A and C are in different paths with the battery,2
+PC.Q5.RA2,Explain your reasoning.,A and C are not in the same path with the battery,1
+PC.Q5.RA3,Explain your reasoning.,A and C are in different paths,1
+PC.Q5.RA4,Explain your reasoning.,A and C are not in the same path,0
+PC.Q6.RA1,Explain your reasoning.,B and C are in the same path with the battery,2
+PC.Q6.RA2,Explain your reasoning.,B and C are in the same path,1
+PC.Q7.RA1,Explain your reasoning.,A and C are in different paths with the battery,2
+PC.Q7.RA2,Explain your reasoning.,A and C are not in the same path with the battery,1
+PC.Q7.RA3,Explain your reasoning.,A and C are in different paths,1
+PC.Q7.RA4,Explain your reasoning.,A and C are not in the same path,0
+PC.Q8.RA1,Explain your reasoning.,"If bulb A burns out, B and C are no longer in a closed path with the battery",2
+PC.Q8.RA2,Explain your reasoning.,"If bulb A burns out, there is no longer a closed path containing B, C and the battery",1
+PC.Q8.RA3,Explain your reasoning.,"If bulb A burns out, neither B nor C is in a closed path",1
+PC.Q10.RA1,Explain your reasoning.,"If C burns out, then A and B are still in a closed path with the battery.",2
+PC.Q10.RA2,Explain your reasoning.,"If C burns out, then A and B are still in a closed path.",1
+PC.Q12.RA1,Why do both bulbs A and B stay on when bulb C is burned out?,If C burns out then A and B are still in a closed path with the battery,2
+PC.Q12.RA2,Why do both bulbs A and B stay on when bulb C is burned out?,There is a closed path with A and B that C is not in.,1
+PC.Q12.RA3,Why do both bulbs A and B stay on when bulb C is burned out?,"If C is damaged, A and B are still in a closed path",1
+PC.Q12.RA4,Why do both bulbs A and B stay on when bulb C is burned out?,A and B have their own path,1
+PC.Q12.RA5,Why do both bulbs A and B stay on when bulb C is burned out?,There is still a closed path,0
+PC.Q13.RA1,Under what circumstances will a damaged/ burned out bulb affect another bulb?,If they are in the same path the burned out bulb affects the other bulb.,2
+PC.Q13.RA2,Under what circumstances will a damaged/ burned out bulb affect another bulb?,It depends on whether or not they are in the same path,1
+PC.Q13.RA3,Under what circumstances will a damaged/ burned out bulb affect another bulb?,The damaged bulb and the other bulb must be contained in the same path,0
+PC.Q14.RA1,Why not?,"there is still a closed path containing Switch Z, Switch X, Bulbs A and C and the battery",2
+PC.Q14.RA2,Why not?,"there is a path containing A, C, Z and the battery",1
+PC.Q14.RA3,Why not?,"there is a path containing A, C, Z and X",1
+PC.Q14.RA4,Why not?,There is a path containing A,0
+PC.Q14.RA5,Why not?,Bulb A is still in a closed path with the battery,2
+PC.Q15.RA1,Describe the paths in this diagram and explain how those paths account for the results.,"Bulb A is in a path which does not contain B and C, so bulbs B and C don't affect it. Bulbs B and C are in the same path. They affect each other, but Bulb A doesn't affect them.",2
+PC.Q15.RA2,Describe the paths in this diagram and explain how those paths account for the results.,Bulb A is in a path which does not contain B and C and isn't affected by B or C. B and C are in the same path and affect each other.,1
+PC.Q15.RA3,Describe the paths in this diagram and explain how those paths account for the results.,there is a path containing A and a different path containing B and C,0
+PC.Q16.RA1,Why was bulb A on when switch Y was open and switch Z was closed?,Bulb A is still contained in a closed path with the battery.,2
+PC.Q16.RA2,Why was bulb A on when switch Y was open and switch Z was closed?,Bulb A is still contained in a closed path with the battery and switch Z.,2
+PC.Q16.RA3,Why was bulb A on when switch Y was open and switch Z was closed?,There is no path containing both switch Y and bulb A,1
+PC.Q16.RA4,Why was bulb A on when switch Y was open and switch Z was closed?,Switch Y and bulb A are not in the same closed path,1
+PC.Q17.RA1,Why was bulb C off when switch Z was open?,Bulb C was no longer in a closed path with the battery,2
+PC.Q17.RA2,Why was bulb C off when switch Z was open?,There was no longer a closed path containing Bulb C and the battery,2
+PC.Q17.RA3,Why was bulb C off when switch Z was open?,there is a path containing Z and C. The open switch Z creates a gap,1
+PC.Q17.RA4,Why was bulb C off when switch Z was open?,there is a path containing Z and C. Opening of switch Z causes the path to be open,1
+PC.Q17.RA5,Why was bulb C off when switch Z was open?,there is a path containing both Z and C,1
+PC.Q17.RA6,Why was bulb C off when switch Z was open?,Bulb C was not in a closed path,0
+PC.Q17.RA7,Why was bulb C off when switch Z was open?,Bulb C was in no closed path,0
+PC.Q17.RA8,Why was bulb C off when switch Z was open?,There are no closed paths,0
+PC.Q18.RA1,What role does the path play in determining whether or not a switch affects a bulb?,If a bulb and a switch are in the same path the switch affects the bulb,2
+PC.Q18.RA2,What role does the path play in determining whether or not a switch affects a bulb?,The switch and the bulb have to be in the same path,0
+PC.Q19.RA1,"When switch X was closed and switch Y was open, why was bulb A on?",Bulb A was still contained in the same closed path with the battery.,2
+PC.Q19.RA2,"When switch X was closed and switch Y was open, why was bulb A on?",Bulb A is still contained in a closed path with the battery and switch X.,2
+PC.Q19.RA3,"When switch X was closed and switch Y was open, why was bulb A on?",there is no path containing both switch Y and bulb A,1
+PC.Q19.RA4,"When switch X was closed and switch Y was open, why was bulb A on?",Switch Y and bulb A are not in the same closed path,1
+PC.Q20.RA1,"When switch X was open and switch Y was closed, why were bulbs B and C on?",Bulb B and Bulb C were still contained in the same closed path with the battery.,2
+PC.Q20.RA2,"When switch X was open and switch Y was closed, why were bulbs B and C on?",no path containing both the switch X and either bulb B or bulb C,1
+PC.Q20.RA3,"When switch X was open and switch Y was closed, why were bulbs B and C on?",There is a path with B and C that does not include X,1
+PC.Q21.RA1,Under what circumstances will a switch affect a bulb?,When the switch and the bulb are contained in the same path,2
+SC.Q3.RA1,What are the conditions that are required to make a bulb light up?,there is a closed path containing both the bulb and a battery,2
+SC.Q3.RA2,What are the conditions that are required to make a bulb light up?,the bulb and the battery are in a closed path,1
+SC.Q3.RA3,What are the conditions that are required to make a bulb light up?,the circuit has a closed path,0
+SC.Q3.RA4,What are the conditions that are required to make a bulb light up?,there is a complete circuit,0
+SC.Q3.RA5,What are the conditions that are required to make a bulb light up?,"One terminal of the bulb has to be connected to one terminal of the battery, and the other terminal of the bulb has to be connected to the different terminal of the battery.",0
+SC.Q4.RA1,Explain your reasoning.,bulb B creates a gap,2
+SC.Q4.RA2,Explain your reasoning.,there is a gap in a circuit,1
+SC.Q4.RA3,Explain your reasoning.,there is an open path,1
+SC.Q4.RA4,Explain your reasoning.,there is an incomplete circuit,1
+SC.Q4.RA5,Explain your reasoning.,there is no closed path,1
+SC.Q5.RA1,Why does a damaged bulb impact a circuit?,a damaged bulb creates a gap,2
+SC.Q5.RA2,Why does a damaged bulb impact a circuit?,there is a gap in the circuit,1
+SC.Q5.RA3,Why does a damaged bulb impact a circuit?,there is an open path,1
+SC.Q5.RA4,Why does a damaged bulb impact a circuit?,there is no closed path,0
+SC.Q5.RA5,Why does a damaged bulb impact a circuit?,there is an incomplete circuit,1
+SC.Q7.RA1,Explain your reasoning.,A and C are in the same closed path,2
+SC.Q7.RA2,Explain your reasoning.,A and C are in the same path,0
+SC.Q8.RA1,Explain why circuit 2 is not a short circuit.,The battery in 2 is not in a closed path,2
+SC.Q8.RA2,Explain why circuit 2 is not a short circuit.,there is no closed path containing the battery,1
+SC.Q8.RA3,Explain why circuit 2 is not a short circuit.,the battery is in an open path,0
+SC.Q9.RA1,Explain why circuit 4 is not a short circuit.,Circuit 4 has no closed paths,2
+SC.Q9.RA2,Explain why circuit 4 is not a short circuit.,The battery in 4 is not in a closed path,1
+SC.Q9.RA3,Explain why circuit 4 is not a short circuit.,There is no closed path,0
+SC.Q9.RA4,Explain why circuit 4 is not a short circuit.,the battery is in an open path,0
+SC.Q10.RA1,Explain why circuit 5 is a short circuit.,the battery is contained in a path in which there is no bulb,2
+SC.Q10.RA2,Explain why circuit 5 is a short circuit.,The battery is contained in a path which does not contain any other components,1
+SC.Q10.RA3,Explain why circuit 5 is a short circuit.,The bulb is not in the closed path containing the battery,1
+SC.Q10.RA4,Explain why circuit 5 is a short circuit.,the battery is contained in a closed path in which there is no bulb,2
+SC.Q10.RA5,Explain why circuit 5 is a short circuit.,The battery is contained in a closed path which does not contain any other components,2
+SC.Q11.RA1,What do you think the red X means?,the battery is damaged,2
+SC.Q11.RA2,What do you think the red X means?,there is a short circuit,0
+SC.Q12.RA1,Why does an open switch impact a circuit?,the open switch creates a gap,2
+SC.Q12.RA2,Why does an open switch impact a circuit?,there is a gap in a circuit,1
+SC.Q12.RA3,Why does an open switch impact a circuit?,the path is not closed,1
+SC.Q12.RA4,Why does an open switch impact a circuit?,there is an incomplete circuit,0
+SC.Q12.RA5,Why does an open switch impact a circuit?,there is an open path,1
+FF.Q3.RA1,Explain why you got a voltage reading of 1.5 for terminal 4 and the positive terminal.,Terminal 4 and the positive terminal are separated by the gap,2
+FF.Q3.RA2,Explain why you got a voltage reading of 1.5 for terminal 4 and the positive terminal.,Terminal 4 and the positive terminal are not connected,2
+FF.Q3.RA3,Explain why you got a voltage reading of 1.5 for terminal 4 and the positive terminal.,terminal 4 is connected to the negative battery terminal,0
+FF.Q3.RA4,Explain why you got a voltage reading of 1.5 for terminal 4 and the positive terminal.,terminal 4 is not separated from the negative battery terminal,0
+FF.Q3.RA5,Explain why you got a voltage reading of 1.5 for terminal 4 and the positive terminal.,Terminal 4 and the positive battery terminal are in different electrical states,0
+FF.Q9.RA1,"Finally, consider finding a burned out light bulb in a long string of lights. One approach would be to place one lead of the multimeter on a battery terminal and then move the other lead systematically, one light bulb terminal at a time. How would you know when you have found the burned out bulb?",When there is a change in voltage you have found the damaged bulb,2
+FF.Q9.RA2,"Finally, consider finding a burned out light bulb in a long string of lights. One approach would be to place one lead of the multimeter on a battery terminal and then move the other lead systematically, one light bulb terminal at a time. How would you know when you have found the burned out bulb?",the bulb with non-zero voltage reading between two terminals,0
+FF.Q16.RA1,What is the relationship between the voltage reading between two terminals and their electrical states?,Voltage is the difference in electrical states between two terminals,2
+FF.Q16.RA2,What is the relationship between the voltage reading between two terminals and their electrical states?,Measuring voltage indicates whether two terminals have different electrical states.,1
+FF.Q16.RA3,What is the relationship between the voltage reading between two terminals and their electrical states?,A zero voltage means that the terminals have the same electrical state.,0
+FF.Q16.RA4,What is the relationship between the voltage reading between two terminals and their electrical states?,A voltage of 1.5 means that the terminals have different electrical states.,0
+FF.Q16.RA5,What is the relationship between the voltage reading between two terminals and their electrical states?,A non-zero voltage means that the terminals have different electrical states.,0
+FF.Q18.RA1,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,Terminal 2 and the positive terminal are separated by the gap,2
+FF.Q18.RA2,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,Terminal 2 and the positive terminal are not connected,2
+FF.Q18.RA3,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,terminal 2 is connected to the negative battery terminal,0
+FF.Q18.RA4,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,terminal 2 is not separated from the negative battery terminal,0
+FF.Q18.RA5,Explain why you got a voltage reading of 1.5 for terminal 2 and the positive terminal.,terminal 2 and the positive battery terminal are in different electrical states,0
+PC.Q9.RA1,Explain your reasoning.,"If B burns out, then there is still a closed path with the battery that contains A and C.",2
+PC.Q9.RA2,Explain your reasoning.,"If B burns out, then there is still a closed path that contains A and C.",1
+PC.Q11.RA1,Why do both bulbs B and C go out when bulb A is burned out?,"If bulb A burns out, B and C are no longer in a closed path with the battery",2
+PC.Q11.RA2,Why do both bulbs B and C go out when bulb A is burned out?,"If bulb A burns out, there is no longer a closed path containing B, C and the battery",1
+PC.Q11.RA3,Why do both bulbs B and C go out when bulb A is burned out?,"A creates a gap in their path, so B and C aren't in a closed path with the battery anymore",1
+PC.Q11.RA4,Why do both bulbs B and C go out when bulb A is burned out?,"A creates a gap in their path, so the path is no longer closed",1
+PC.Q11.RA5,Why do both bulbs B and C go out when bulb A is burned out?,A is in the path with B and C,1
+PC.Q11.RA6,Why do both bulbs B and C go out when bulb A is burned out?,A is in the path with B and C and the battery,1
+SC.Q1.RA1,Why did it happen?,damaged bulb A creates a gap,2
+SC.Q1.RA2,Why did it happen?,there is a gap in a circuit,1
+SC.Q1.RA3,Why did it happen?,B and C were no longer in a closed path,1
+SC.Q1.RA4,Why did it happen?,there is an open path,0
+SC.Q1.RA5,Why did it happen?,there are no closed paths,0
+SC.Q1.RA6,Why did it happen?,there is an incomplete circuit,0
+SC.Q2.RA1,Explain your reasoning.,In both circuits there is a closed path containing both the a and a battery,2
+SC.Q6.RA1,How does a damaged bulb compare to an open switch?,A damaged bulb and an open switch both create a gap and cause bulbs to go out,2
+SC.Q6.RA2,How does a damaged bulb compare to an open switch?,both a damaged bulb and an open switch cause bulbs to go out,1
+SC.Q6.RA3,How does a damaged bulb compare to an open switch?,a damaged bulb and an open switch create a gap,1
+SC.Q6.RA4,How does a damaged bulb compare to an open switch?,there is a gap,1
+SC.Q6.RA5,How does a damaged bulb compare to an open switch?,there is a gap in the circuit,1
+SC.Q6.RA6,How does a damaged bulb compare to an open switch?,they are the same,0
+SC.Q6.RA7,How does a damaged bulb compare to an open switch?,both create a gap,1
+SC.Q6.RA8,How does a damaged bulb compare to an open switch?,they do the same thing,0

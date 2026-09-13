@@ -1,0 +1,21 @@
+{
+  "total_rows": 12439,
+  "train_rows": 9951,
+  "val_rows": 1244,
+  "test_rows": 1244,
+  "sources": {
+    "scientsbank": 10233,
+    "mohler": 2206
+  },
+  "score_stats": {
+    "mean": 0.5776,
+    "std": 0.422,
+    "min": 0.0,
+    "max": 1.0
+  },
+  "avg_lengths": {
+    "question": 199,
+    "expected_answer": 90,
+    "student_answer": 71
+  }
+}
